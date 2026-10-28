@@ -1,0 +1,2 @@
+# exness
+XAUUSDpou teste
